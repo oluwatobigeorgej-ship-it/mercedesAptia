@@ -21,7 +21,7 @@ export const metadata: Metadata = {
 
   openGraph: {
     type: 'website',
-    url: "",
+    url: "https://www.mercedes-aptia365.com/",
     siteName: "Aptia365"
   }
 };
