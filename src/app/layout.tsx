@@ -17,6 +17,14 @@ export const metadata: Metadata = {
     "aptia 365",
     "aptia benefits",
     "aptia",
+    "Aptia login",
+    "Aptia 365 login",
+    "Aptia group",
+    "Aptia insurance",
+    "Aptia hsa login",
+    "Aptia flex benefits",
+    "Aptia mercer",
+    "Aptia mercedes",
   ],
 
   openGraph: {
