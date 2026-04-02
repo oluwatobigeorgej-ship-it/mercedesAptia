@@ -25,6 +25,16 @@ export const metadata: Metadata = {
     "Aptia flex benefits",
     "Aptia mercer",
     "Aptia mercedes",
+    "Cloud HR software",
+"Payroll processing solutions",
+"Employee lifecycle management",
+"HRIS (Human Resource Information System)",
+"Benefits administration platform",
+"Time and attendance tracking",
+
+
+
+
   ],
 
   openGraph: {
